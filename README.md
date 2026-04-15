@@ -90,5 +90,4 @@ and Minimum Volatility portfolios.
 pip install pandas numpy matplotlib yfinance
 python portfolio.py
 
-## Author
-Yashraj Patil
+---- Yashraj Patil ----
