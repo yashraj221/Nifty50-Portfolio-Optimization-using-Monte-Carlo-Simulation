@@ -92,4 +92,3 @@ python portfolio.py
 
 ## Author
 Yashraj Patil
-BSc Biotechnology, KTHM College, Nashik
